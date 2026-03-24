@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 1;
+    char ch = 'A';
+    ch = ch + a;
+    
+    
+   
+    
+ printf(" A variavel ch possui o valor: %c", ch);
+ 
+    return 0;
+}
